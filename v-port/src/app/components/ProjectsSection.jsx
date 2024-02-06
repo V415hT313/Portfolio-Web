@@ -62,6 +62,14 @@ const projectsData = [
         gitUrl: "https://github.com/V415hT313/Quality_Prediction",
         previewUrl: "/",
     },
+    {
+      id: 8,
+      title: "FigPro",
+      image: "/images/projects/8.jpg",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/V415hT313/figma_clone",
+      previewUrl: "https://figma-clone-theta.vercel.app/",
+    },
 ];
 
 const ProjectsSection = () => {
