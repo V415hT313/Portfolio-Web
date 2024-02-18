@@ -70,6 +70,14 @@ const projectsData = [
       gitUrl: "https://github.com/V415hT313/figma_clone",
       previewUrl: "https://figma-clone-theta.vercel.app/",
     },
+    {
+      id: 9,
+      title: "SignToText",
+      image: "/images/projects/9.png",
+      tag: ["All", "ML"],
+      gitUrl: "https://github.com/V415hT313/ASL_TText",
+      previewUrl: "https://github.com/V415hT313/ASL_TText/blob/main/20240218-0805-23.4093692.mp4",
+    },
 ];
 
 const ProjectsSection = () => {
