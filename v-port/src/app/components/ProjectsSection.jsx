@@ -78,6 +78,14 @@ const projectsData = [
       gitUrl: "https://github.com/V415hT313/ASL_TText",
       previewUrl: "https://github.com/V415hT313/ASL_TText/blob/main/20240218-0805-23.4093692.mp4",
     },
+    {
+      id: 10,
+      title: "Sale Profit Dashboard",
+      image: "/images/projects/10.png",
+      tag: ["All", "ML"],
+      gitUrl: "https://github.com/V415hT313/SalesInsights",
+      previewUrl: "https://github.com/V415hT313/SalesInsights/blob/main/gSalesProfit.pbix",
+    },
 ];
 
 const ProjectsSection = () => {
